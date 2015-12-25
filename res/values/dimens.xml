@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Welcome sliding page  -->
+    <dimen name="welcome_images_size">360dp</dimen>
+    <dimen name="welcome_images_margin_top">0dp</dimen>
+    <dimen name="welcome_heading_margin_bottom">12dp</dimen>
+    <dimen name="welcome_text_margin">48dp</dimen>
+    <dimen name="welcome_heading">24sp</dimen>
+    <dimen name="welcome_text_margin_bottom">12dp</dimen>
+    <dimen name="welcome_content_min_height">96dp</dimen>
+    <dimen name="welcome_content">16.0sp</dimen>
+</resources>

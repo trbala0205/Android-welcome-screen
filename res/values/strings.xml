@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WelcomeScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="screen1_title">Unlimited Calls</string>
+    <string name="screen1_desc">Call your friends, family, Relatives free of cost anytime anywhere.</string>
+    <string name="screen2_title">Group Conversations</string>
+    <string name="screen2_desc">Create your own group and share Snapshots, Videos etc. </string>
+    <string name="screen3_title">Synchronize with your laptop</string>
+    <string name="screen3_desc">Get notified with your calls and messages to your laptop</string>
+
+</resources>
